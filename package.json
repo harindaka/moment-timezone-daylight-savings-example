@@ -1,0 +1,19 @@
+{
+  "name": "moment-timezone-daylight-savings-example",
+  "version": "1.0.0",
+  "description": "An example of converting utc time to a different timezone with daylight savings support",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harindaka/moment-timezone-daylight-savings-example.git"
+  },
+  "author": "Hemal Harindaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harindaka/moment-timezone-daylight-savings-example/issues"
+  },
+  "homepage": "https://github.com/harindaka/moment-timezone-daylight-savings-example#readme"
+}
