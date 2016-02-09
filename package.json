@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/harindaka/moment-timezone-daylight-savings-example/issues"
   },
-  "homepage": "https://github.com/harindaka/moment-timezone-daylight-savings-example#readme"
+  "homepage": "https://github.com/harindaka/moment-timezone-daylight-savings-example#readme",
+  "dependencies": {
+    "moment": "^2.11.2",
+    "moment-timezone": "^0.5.0"
+  }
 }
